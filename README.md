@@ -6,4 +6,6 @@ The detector can detect any finger pattern you created with your hands. It works
 
 By now, each finger can have two state, either lifted up or not lifted up. However, it is not hard to add more states of the fingers.
 
+You can press 'q' to exit the program.
+
 ### Demo
