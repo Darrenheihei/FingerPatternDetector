@@ -9,3 +9,7 @@ By now, each finger can have two state, either lifted up or not lifted up. Howev
 You can press 'q' to exit the program.
 
 ### Demo
+
+
+https://github.com/Darrenheihei/FingerPatternDetector/assets/143731040/b808fbff-e1e0-4ab3-8f33-ef4759323cf2
+
